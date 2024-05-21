@@ -1,13 +1,2 @@
 
-Dear Professor
 
-Until the day of the competition we were still working on the robot in our own lab (in the basement of the EV building).
-A lack of time and a hive like environment didn't allow for the proper adjustment of colors to the lighting conditions
-of the competition room,that is why our robot lost the obstacle color during the scaping step and went out of the workspace.
-However, our robot does work very well when tuned to the settings of our development lab in the basement of the EV building.
-The videos included in this file show that the robot go through all the operations perfectly.
-
-Regards
-Seyed Ahmad Farsad 40015702 
-Mikail Shapoory Arani 40041643 
-Dany Akkari   21285963
